@@ -4,6 +4,6 @@ numpy
 plotly
 scikit-learn
 prophet
-xgboost
+xgboost==1.6.2
 keras
 tensorflow
